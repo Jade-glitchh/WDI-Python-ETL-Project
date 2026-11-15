@@ -1,6 +1,5 @@
 # World Development Indicators  Python ETL Pipeline
 
-!(dashboard)
 # Project Overview
 
 This project builds a production-style ETL pipeline using the World Bank World Development Indicators (WDI) dataset.
